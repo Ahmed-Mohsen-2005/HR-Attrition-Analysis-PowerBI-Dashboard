@@ -99,14 +99,22 @@ The Power BI dashboard was divided into **4 key pages**:
 1. **Overview:**
    - Workforce size, education levels, department distribution, general stats.
 
+     ![Overview](Overviewpage.jpg)
+
 2. **Demographics:**
    - Age, gender, marital status, ethnicity, and salary distribution.
+     ![Demographics](Demographics_page.jpg)
+
 
 3. **Performance Tracker:**
    - Individual employee satisfaction and performance over time.
+  
+    ![Performance Tracker](Performance_tracker_page.jpg)
+
 
 4. **Attrition Insights:**
    - Attrition rate, inactive count, hire/tenure date, travel frequency, and overtime.
+     ![Attrition](Attrition_page.jpg)
 
 Each visual enabled drill-through and filtering for deeper exploration.
 
