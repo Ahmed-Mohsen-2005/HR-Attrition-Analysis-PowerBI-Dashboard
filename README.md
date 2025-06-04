@@ -64,18 +64,6 @@ These relationships enabled deep slicing of employee performance and satisfactio
 - **Demographics**: Age, gender, marital status, salary by ethnicity.
 - **Attrition Analysis**: Factors such as department, travel, overtime, and tenure.
 
-## 🛠️ Team Collaboration
-
-- Defined roles and responsibilities based on individual strengths.
-- Regular updates through messaging apps and video meetings.
-- Used Power BI for progress tracking and version management.
-- Maintained documentation in shared drives and email threads.
-
-## 🚧 Challenges & Solutions
-
-- **Initial Obstacle**: Understanding a complex dataset.
-- **Solution**: Team brainstorming and continuous feedback helped in data exploration and modeling.
-
 ## 🧾 Lessons Learned
 
 - Strong communication and clear task ownership are key to success.
